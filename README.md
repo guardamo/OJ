@@ -1,2 +1,2 @@
 # OJ
-some codes for oj examination.
+There are some codes for oj examination in this repostory. 
